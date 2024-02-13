@@ -1,6 +1,6 @@
 from ex1 import Livro
 
-livro1 = Livro('O Ultimo Olimpiano', 'Rick Riordan', 2002)
+livro1 = Livro('O Filho de Netuno', 'Rick Riordan', 2011)
 livro2 = Livro('O Caminho Jedi', 'LucasFilms', 2007)
 livro3 = Livro('God of War I', 'Sony Playstation', 2022)
 
